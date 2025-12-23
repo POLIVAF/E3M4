@@ -161,8 +161,11 @@ Proyecto desarrollado con enfoque **Full-Stack JavaScript**, aplicando criterios
 ✨ *Este proyecto sirve como base sólida para aprender manipulación del DOM y eventos en JavaScript moderno.*
 
 
-##repositorio y page GITHUB
+## Github Repocitory
 
-[E34M] (https://github.com/POLIVAF/E3M4.git)
-[E34M] (https://polivaf.github.io/E3M4/)
+[E34M](https://github.com/POLIVAF/E3M4.git)
+
+## GitHub Pages:
+
+[E34M](https://polivaf.github.io/E3M4/)
 
