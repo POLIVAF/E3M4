@@ -26,12 +26,15 @@ La galería permite:
 ## 📁 Estructura del Proyecto
 
 ```
-/galeria-interactiva
+/E3M4
 │
 ├── index.html
-├── style.css
-├── app.js
-└── README.md
+├── README.md
+└── assets
+    ├─ style.css
+    │   ├─ style.css
+    └── app.js
+        └─ app.js
 ```
 
 ---
