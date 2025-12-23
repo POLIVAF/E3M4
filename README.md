@@ -33,7 +33,7 @@ La galería permite:
 └── assets
     ├─ style.css
     │   ├─ style.css
-    └── app.js
+    └── js
         └─ app.js
 ```
 
