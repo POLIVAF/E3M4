@@ -15,7 +15,7 @@ const contenedorImagen = document.querySelector('#imagen-principal-container');
 // Colección de thumbnails
 const thumbnails = document.querySelectorAll('.thumbnail');
 
-// Validación defensiva (buena práctica profesional)
+// Validación defensiva 
 if (!imagenPrincipal || !contenedorImagen || thumbnails.length === 0) {
   console.error('Error: Elementos del DOM no encontrados.');
 }
