@@ -6,7 +6,7 @@
 
 // Selección de elementos del DOM
 
-// Imagen principal
+// Imagen principalse 
 const imagenPrincipal = document.querySelector('#imagen-principal');
 
 // Contenedor de la imagen principal (para insertar el pie de foto)
